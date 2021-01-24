@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final Year Project</string>
+    <string name="password">Enter Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="user_nameS">User name</string>
+    <string name="sign_up_Button">Sign Up</string>
+    <string name="action_settings">Settings</string>
+    <string name="form_decription">Please enter the attributes to predict the result.</string>
+</resources>
